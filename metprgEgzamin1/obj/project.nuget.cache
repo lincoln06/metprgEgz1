@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "39DDkXPKI7E+Eu4eo+8gVchMbiFfIOU6JGy8Y8EcDbBuWxK36XWCyLPDU/FRSRPY5s86fcjvNNqcYFcWXP8Wkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macie\\source\\repos\\metprgEgzamin1\\metprgEgzamin1\\metprgEgzamin1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
