@@ -1,0 +1,16 @@
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\metprgEgzamin1.exe
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\metprgEgzamin1.deps.json
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\metprgEgzamin1.runtimeconfig.json
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\metprgEgzamin1.runtimeconfig.dev.json
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\metprgEgzamin1.dll
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\ref\metprgEgzamin1.dll
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\bin\Debug\net5.0\metprgEgzamin1.pdb
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.AssemblyInfo.cs
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.dll
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\ref\metprgEgzamin1.dll
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.pdb
+C:\Users\macie\source\repos\metprgEgzamin1\metprgEgzamin1\obj\Debug\net5.0\metprgEgzamin1.genruntimeconfig.cache
